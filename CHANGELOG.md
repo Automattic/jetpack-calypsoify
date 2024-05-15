@@ -12,3 +12,6 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Calypsoify: Copy the code from the Jetpack module into the package.
 - Initial version.
+
+### Changed
+- Updated package dependencies.
