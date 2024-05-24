@@ -14,4 +14,5 @@ This is an alpha version! The changes listed here are not final.
 - Initial version.
 
 ### Changed
+- Calypsoify: Load feature from the Calypsoify package
 - Updated package dependencies.
